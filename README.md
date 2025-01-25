@@ -19,9 +19,7 @@ This project was created to:
 
 ## Technologies Used
 
-- Programming Language: [e.g., JavaScript, Python]
-- Frameworks/Libraries: [e.g., React, Django]
-- Tools: [e.g., Git, Node.js]
+- Programming Language: [JavaScript]
 
 ## Installation
 
